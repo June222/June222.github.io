@@ -35,7 +35,7 @@ layout: page
 "철강 촬영 App 제작"
 을 통해 <mark>철강 공정 과정 연출 및 시연</mark>에 도움을 주었음 (FE, BE)
 
-["철강 데이터 관리 App"](https://github.com/June222/capstone-2023-1-02/tree/main/Frontend/tablet)
+["철강 데이터 관리 App"](https://github.com/June222/capstone-2023-1-02)
 을 통해 <mark>실시간으로 데이터를 관리</mark>하는 App 개발을 하였음 (FE)
 
 <a href="https://private-user-images.githubusercontent.com/38900003/280456095-97e9af17-62f3-4761-83e8-ad175bda8376.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2Nzg2NjcsIm5iZiI6MTcwMTY3ODM2NywicGF0aCI6Ii8zODkwMDAwMy8yODA0NTYwOTUtOTdlOWFmMTctNjJmMy00NzYxLTgzZTgtYWQxNzViZGE4Mzc2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDA4MjYwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjNmFlYWI5OWJiYTY1MGUyY2RkODJjMDg1OGE3YzhhNzhhZTJkYjAyMGJkNjIwNzBiOTA3ZTMxMzlmY2U2MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bXzgDQnHfW5KlI_pIqtMKjZmYhfCmyzawqGcz3k6pcE" target="_blank">"데이터의 그래프 시각화"</a>
@@ -97,9 +97,10 @@ _2022.12.01 ~ 2022.12.21_
 
 ---
 
-|             기간             |     프로그램명      | 교육 내용                                                                                                                                                                            |
-|:--------------------------:|:--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2023.09.23 ~ 2023.12.02   |  백엔드 미니 부트캠프   | - Dispatcher Servlet<br>- DI / IoC<br>- Controller<br>- Persist Context<br>- TestCode 작성법<br>- linux 명령어<br>- Docker 사용법<br>- AWS 배포<br>- EC2 사용법<br>- ElasticBeanstalk 블루/그린 배포 |
+|           기간            |    프로그램명    | 프로그램 내용                                                                                                                                                                          |
+|:-----------------------:|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     2023.11.03 ~ 현재     | AID 동아리 운영진 | - Django 이용한 백엔드 서버 제작<br>- ERD 제작                                                                                                                                               |
+| 2023.09.23 ~ 2023.12.02 | 백엔드 미니 부트캠프 | - Dispatcher Servlet<br>- DI / IoC<br>- Controller<br>- Persist Context<br>- TestCode 작성법<br>- linux 명령어<br>- Docker 사용법<br>- AWS 배포<br>- EC2 사용법<br>- ElasticBeanstalk 블루/그린 배포 |
 
 <br>
 
