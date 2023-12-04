@@ -351,5 +351,10 @@ a.navbar-item.is-active {
         ul, ol, blockquote {
             display: inline-block;
         }
+        hr{
+            height: 3px;
+            color: black;
+        }
+        padding: 0rem 15rem;
     }
 }
