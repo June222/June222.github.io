@@ -73,6 +73,11 @@ hr {
     }
 }
 
+.row {
+    display: flex;
+    padding: 3rem 0;
+    border-bottom: 1px solid #eee;
+}
 
 .row-left {
     -ms-flex-preferred-size: 18rem;
