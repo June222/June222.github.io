@@ -45,7 +45,7 @@ author-name: 강준우
 # URL for the Image of the Author
 author-image: https://avatars.githubusercontent.com/u/38900003?v=4
 # 60 Words About the Author
-author-about: Flutter, Spring을 사용하여 App 개발, 서버 구축 및 필요한 API를 직접 개발한 경험이 있는 주니어 풀스택 개발자입니다.
+author-about: Flutter, Spring을 주로 사용합니다. 처음 Spring을 접하고 3주 만에 필요한 최소 기능을 갖춘 서버를 제작하였습니다. 이후 제작한 앱은 ElasticBeanStalk을 이용하여 무중단 배포(블루/그린 배포)를 할 수 있는 상태를 구축했습니다. App 개발, 서버 구축 및 필요한 API 제작, AWS를 활용해 배포까지 직접 겪으며 성장하는 주니어 풀스택 개발자입니다.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/June222
 
