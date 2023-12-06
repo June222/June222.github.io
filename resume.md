@@ -35,7 +35,7 @@ layout: page
 "철강 촬영 App 제작"
 을 통해 <mark>철강 공정 과정 연출 및 시연</mark>에 도움을 주었음 (FE, BE)
 
-["철강 데이터 관리 App"](https://github.com/June222/capstone-2023-1-02)
+<a href="https://github.com/June222/capstone-2023-1-02" target="_blank">"철강 데이터 관리 App"</a>
 을 통해 <mark>실시간으로 데이터를 관리</mark>하는 App 개발을 하였음 (FE)
 
 <a href="https://private-user-images.githubusercontent.com/38900003/280456095-97e9af17-62f3-4761-83e8-ad175bda8376.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2Nzg2NjcsIm5iZiI6MTcwMTY3ODM2NywicGF0aCI6Ii8zODkwMDAwMy8yODA0NTYwOTUtOTdlOWFmMTctNjJmMy00NzYxLTgzZTgtYWQxNzViZGE4Mzc2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDA4MjYwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjNmFlYWI5OWJiYTY1MGUyY2RkODJjMDg1OGE3YzhhNzhhZTJkYjAyMGJkNjIwNzBiOTA3ZTMxMzlmY2U2MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bXzgDQnHfW5KlI_pIqtMKjZmYhfCmyzawqGcz3k6pcE" target="_blank">"데이터의 그래프 시각화"</a>
@@ -51,7 +51,7 @@ _2023.10.01 ~ 2023.11.3_
 #### <u>우수상 수상 (본선 8개 팀)</u>
 "App UI ver.1 제작"을 통해 <mark>ver.2로 발전할 수 있는 기틀을 마련</mark>함
 
-["현재 사용자 위치 범죄 안전도 예측"](https://github.com/June222/No-Crime-App) 구현
+<a href="https://github.com/June222/No-Crime-App" target="_blank">"현재 사용자 위치 범죄 안전도 예측"</a> 구현
 
 "범죄 건수 조회" 구현
 
@@ -108,10 +108,10 @@ _2022.12.01 ~ 2022.12.21_
 
 ---
 
-|   MY   |                           Link                           |
-|:------:|:--------------------------------------------------------:|
-| github |  <a href="github.com/june222"> github.com/june222 </a>   |
-| Email  | <a href="mailto:0119299@gmail.com">0119299@gmail.com</a> |
-|  Blog  |   <a href="june222.github.io"> june222.github.io </a>    | 
+|   MY   |                                     Link                                      |
+|:------:|:-----------------------------------------------------------------------------:|
+| github | <a href="https://github.com/june222" target="_blank"> github.com/june222 </a> |
+| Email  |           <a href="mailto:0119299@gmail.com">0119299@gmail.com</a>            |
+|  Blog  |              <a href="june222.github.io"> june222.github.io </a>              | 
 
 <br>
