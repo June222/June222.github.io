@@ -56,7 +56,8 @@ WhatATheme comes pre installed with
 * **Google Analytics** - A web analytics service offered by Google that tracks and reports website traffic. For more information [click here](https://analytics.google.com){:target="blank"}.
 * **Disqus** - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus [click here](https://help.disqus.com/en/articles/1717053-what-is-disqus){:target="blank"}
 
-	##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
+	
+##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
 
 ---
 
