@@ -10,7 +10,50 @@ layout: page
 
 <br>
 
-# Experience
+# Junwoo Kang, Software Engineer
+---
+
+### Contacts
+&nbsp; 010-5495-4551 · [0119299@gmail.com](mailto:0119299@gmail.com) · [instargram](https://www.instagram.com/vwxy_h__s_/)
+
+### 지원 직무
+&nbsp; Junior Backend Engineer
+
+### 보유 역량
+&nbsp;**Backend Engineering**
+- Spring framework, JPA or Query 기반으로 프로젝트용 Backend API 서버 개발
+- AWS ElasticBeanstalk을 이용한 블루/그린 배포를 개인 블로그에 적용하여 배포한 적 있음.
+- Docker Registry를 통한 Image 관리 및 Docker, Docker-Compose를 통한 서버 배포
+<br> 
+<br>
+
+&nbsp;**GitHub 역량**
+
+- 주어진 workflow를 완벽하게 이해할 수 있고 재현할 수 있음.
+- git을 이용한 버전 관리 능력은 당장 협업에 뛰어들어도 문제 없음.
+- GitHub Action을 이용하여 CI/CD를 개인 블로그에 구축함.
+<br>
+<br>
+
+&nbsp;**커뮤니케이션 역량**
+
+- 다수의 프로젝트, 동아리에서 리더의 역할을 수행함.
+- 상황에 맞게 상대를 설득할 수 있는 여러 가지 말하기 방법을 알고 있음.
+- 상대를 배려하며 의견을 효과적으로 전달하는 방법을 알고 있음.
+
+
+# Careers
+
+---
+
+
+
+
+
+
+
+
+# Experiences
 
 ---
 
@@ -28,7 +71,13 @@ layout: page
 [//]: # ()
 [//]: # (<br>)
 
-### PNU CSE 졸업과제(Smart Factory)<br>_FE, BE 팀장 (Flutter, Spring, AWS)_
+
+&nbsp; **PNU CSE 졸업과제(Smart Factory)-팀장**<br>
+&nbsp;&nbsp;철강 불량 검출 및 분류 인공지능 학습 모델 개발
+
+
+<u>은상 수상</u> (14 개팀) 및 학생 투표 1위
+
 #### <u>은상 수상 (14 개팀)</u> 및 학생 투표 1위
 
 
