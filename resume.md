@@ -22,7 +22,7 @@ layout: page
 ### 보유 역량
 &nbsp;**Backend Engineering**
 - Spring framework, JPA or Query 기반으로 프로젝트용 Backend API 서버 개발
-- AWS ElasticBeanstalk을 이용한 블루/그린 배포를 개인 블로그에 적용하여 배포한 적 있음.
+- AWS ElasticBeanstalk을 이용한 블루/그린 배포를 개인 블로그에 배포 경험.
 - Docker Registry를 통한 Image 관리 및 Docker, Docker-Compose를 통한 서버 배포
 <br> 
 <br>
@@ -35,7 +35,7 @@ layout: page
 <br>
 <br>
 
-&nbsp;**커뮤니케이션 역량**
+&nbsp;**Communication 역량**
 
 - 다수의 프로젝트, 동아리에서 리더의 역할을 수행함.
 - 상황에 맞게 상대를 설득할 수 있는 여러 가지 말하기 방법을 알고 있음.
@@ -72,7 +72,7 @@ layout: page
 [//]: # (<br>)
 
 
-&nbsp; **PNU CSE 졸업과제(Smart Factory)-팀장**<br>
+#### PNU CSE 졸업과제(Smart Factory)-팀장 <br>
 &nbsp;&nbsp;철강 불량 검출 및 분류 인공지능 학습 모델 개발
 
 
