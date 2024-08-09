@@ -71,6 +71,7 @@ _2023.10.01 ~ 2023.11.3_
 - 모든 사용자 인터페이스 구축
 - 경찰청 범죄 데이터를 이용하는 REST API 개발
 - GPS 데이터를 이용한 자동 데이터 조회 기능 개발
+- [소개서 Link](https://www.canva.com/design/DAFtvgqR1WU/MlijIKjzEDp914R6AgCiiQ/edit) · [시연 영상](https://photos.google.com/share/AF1QipM7UNm1ftyJv4khoc6gFNsDMYmfPtO3SvdVXB07Effv6CCxyRndXN7ORPORJjy_ww?key=elB6Zzc2dHlSQTBNSk4tU2p4eFJtTXZybXZNRXNB)
 
 _2023.08.28 ~ 2023.09.08_
 
