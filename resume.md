@@ -4,9 +4,6 @@ layout: page
 ---
 
 # <center>불편함을 찾고, 해결하고 싶은 개발자<br>강준우입니다.</center>
-<center></center>
-
-[//]: # (<center>저는 <mark>이런 것을</mark> 좋아하는 사람입니다.</center>)
 
 <br>
 
@@ -16,9 +13,9 @@ layout: page
 
 컴퓨터공학을 전공한 Junior SW 개발자로 태생이 두려움보다 호기심이 많은 성격이라 새로운 기술과 분야를 쉽고 적극적으로 받아들입니다.
 <mark>커뮤니케이션 능력</mark>과 위기 대처 능력이 좋아 대부분의 프로젝트를 리더로서 수행하였습니다. 
+또한, <mark>일을 자동화</mark>하고 효율적으로 만드는 것을 좋아합니다.<br/>
 
-<mark>일을 자동화</mark>하고 효율적으로 만드는 것을 좋아합니다.
-Java 수업 조교로 지내며 채점 자동화 프로그램을 만들어 채점에 필요한 시간을 획기적으로 줄였습니다.
+[//]: # (Java 수업 조교로 지내며 채점 자동화 프로그램을 만들어 채점에 필요한 시간을 60% 넘게 줄였습니다.)
 
 #### Contacts
 &nbsp; 010-5495-4551 · [0119299@gmail.com](mailto:0119299@gmail.com) · [instargram](https://www.instagram.com/vwxy_h__s_/)
@@ -58,7 +55,7 @@ Java 수업 조교로 지내며 채점 자동화 프로그램을 만들어 채�
 ---
 
 #### PNU CSE 졸업과제(Smart Factory) - 팀장 <br>
-&nbsp;&nbsp;"철강 불량 검출 및 분류 인공지능 학습 모델" 개발 - <u>은상 수상 (14 개팀)</u>
+&nbsp;&nbsp;"철강 불량 검출 및 분류 인공지능 학습 모델" 개발 - <u>은상 수상 (52 개팀)</u>
 
 - SpringBoot DB(AWS) JPA 개발 및 Docker를 이용한 서버 구축
 - <a href="https://github.com/June222/capstone-2023-1-02" target="_blank">데이터 관리 App</a> 배포 및 저작권 등록
@@ -74,6 +71,7 @@ _2023.10.01 ~ 2023.11.3_
 - 모든 사용자 인터페이스 구축
 - 경찰청 범죄 데이터를 이용하는 REST API 개발
 - GPS 데이터를 이용한 자동 데이터 조회 기능 개발
+- [소개서 Link](https://www.canva.com/design/DAFtvgqR1WU/MlijIKjzEDp914R6AgCiiQ/edit) · [시연 영상](https://photos.google.com/share/AF1QipM7UNm1ftyJv4khoc6gFNsDMYmfPtO3SvdVXB07Effv6CCxyRndXN7ORPORJjy_ww?key=elB6Zzc2dHlSQTBNSk4tU2p4eFJtTXZybXZNRXNB)
 
 _2023.08.28 ~ 2023.09.08_
 
@@ -99,9 +97,6 @@ _2022.12.01 ~ 2022.12.21_
 - DataBase:  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
 - Language: <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/cpp-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
-[//]: # (<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>)
-
-
 
 <br><br>
 
@@ -121,10 +116,11 @@ _2022.12.01 ~ 2022.12.21_
 |         기간          |        프로그램명        | 프로그램 내용                                                                                                                                                                          |
 |:-------------------:|:-------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    23.11.03 ~ 현재    |     AID 동아리 운영진     | - Django 이용한 백엔드 서버 제작<br>- ERD 제작                                                                                                                                               |
+| 24.01.02 ~ 24.02.26 |      LG Aimers      | - 수학<br/>- 기계학습<br/>- 지도학습<br/>- 인과추론<br/>- B2B<br/>- 온라인 해커톤                                                                                                                    |
 | 23.09.03 ~ 23.12.19 |  PNU JAVA 실습 수업 조교  | - JAVA 실습 수업<br>- 채점 자동화 프로그램 작성                                                                                                                                                 |
 | 23.09.23 ~ 23.12.02 |     백엔드 미니 부트캠프     | - Dispatcher Servlet<br>- DI / IoC<br>- Controller<br>- Persist Context<br>- TestCode 작성법<br>- linux 명령어<br>- Docker 사용법<br>- AWS 배포<br>- EC2 사용법<br>- ElasticBeanstalk 블루/그린 배포 |
-| 23.01.01 ~ 23.03.15 | 부산대 맛집 어플 개발| Flutter 와 Firebase를 활용한 Side Project                                                                                                                                             |
-| 22.09 01 ~ 22.10.08 | ICPC Seoul Regional | 알고리즘 대회 출전                                                                                                                                                                       |
+| 23.01.01 ~ 23.03.15 |    부산대 맛집 어플 개발     | Flutter 와 Firebase를 활용한 Side Project                                                                                                                                             |
+| 22.09 01 ~ 22.10.08 | ICPC Seoul Regional | 대학생 프로그래밍 대회 출전                                                                                                                                                                  |
 
 <br>
 
