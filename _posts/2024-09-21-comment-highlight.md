@@ -49,6 +49,7 @@ vscode는 기본적으로 주석 색이 회색으로 되어있다. 그래서 알
 },
 ```
 
+<br>
 
 ```json
 # settings.json
