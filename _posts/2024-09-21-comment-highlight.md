@@ -125,3 +125,11 @@ VSCode에 `Highlight`Extension을 설치한다. _`TODO HIGHLIGHT`는 설치했�
 아래는 적용 후 모습이다.
 
 ![custom_highlight.png](../assets/images/custom_highlight.png)
+
+<br>
+
+# 참고
+
+Emoji 사이트로 바로가기: [https://getemoji.com/#objects](https://getemoji.com/#objects)
+
+[![](../assets/images/GetEmojiSite.png)](https://getemoji.com/#objects)
