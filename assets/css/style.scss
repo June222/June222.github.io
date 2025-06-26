@@ -3,6 +3,7 @@
 
 @import "main.scss";
 
+
 #navbar {
     opacity: 0.95;
 }
@@ -36,6 +37,8 @@ a.navbar-item.is-active {
 .navbar-link:not(.is-arrowless)::after {
     border-color: grey;
 }
+
+
 
 
 #hero {
@@ -352,13 +355,62 @@ a.navbar-item.is-active {
 
 #page-section {
     .content {
-        ul, ol, blockquote {
-            display: inline-block;
+        
+        ul, ol {
+            // display: inline-block;
+            list-style:none;
+            padding-left: 0;
+        }
+        ul li {
+            font-size: 1rem;
+            margin-bottom: 0.6rem;
+            line-height: 1.7;
         }
         hr{
             height: 3px;
             color: black;
         }
-        padding: 0rem 15rem;
+        // padding: 0rem 15rem;
+
+        table td {
+            vertical-align: middle;
+            align-content: center;
+            align-items: center;
+        }
     }
+
+    h1, h2, h3 {
+        font-weight: bold;
+    }
+
+    .section {
+        padding: 3rem 0rem 
+    }
+
+    .photo {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        // margin-bottom: 1rem;
+        border: 3px solid #171717;
+    }
+
+    .header {
+        text-align: center;
+        // margin-bottom: 2rem;
+    }
+    word-break: keep-all;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+  }
+  
+  table td, table th {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    // vertical-align: middle;
+  }
