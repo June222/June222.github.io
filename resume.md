@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 <div class="header">
-    <img class="photo" src="https://raw.githubusercontent.com/June222/ApplyingCompany/refs/heads/main/%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%842-%EA%B0%95%EC%A4%80%EC%9A%B0.jpg?token=GHSAT0AAAAAADEMRDMOH2K2RFDJHFKNFP562C4WLJQ" alt="강준우 프로필 사진" />
+    <img class="photo" src="https://my-bucket-for-applying.s3.ap-northeast-2.amazonaws.com/%E1%84%8E%E1%85%B1%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB2-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%AE.jpg" alt="강준우 프로필 사진" />
 </div>
 ### <center>Cloud Native Engineer | 강준우</center>
 
@@ -17,7 +17,7 @@ layout: page
 
 ---
 
-> 인프라 설계/운영, 배포 자동화 중심 포지션에 적합 (IaC, CI/CD)
+> 인프라 설계/운영, 배포 자동화 중심 포지션 희망 (IaC, CI/CD)
 
 &nbsp;<mark>Cloud-Native Engineer</mark> / <mark>Junior DevOps</Mark>
 
