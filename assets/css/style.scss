@@ -63,6 +63,14 @@ a.navbar-item.is-active {
         opacity: 0.25;
         content: "";
     }
+
+    .hero-body{
+        .container{
+            .subtitle{
+                word-break: keep-all;
+            }
+        }
+    }
 }
 .title {
     margin: auto 0.75rem!important;
@@ -392,7 +400,8 @@ a.navbar-item.is-active {
         height: 120px;
         border-radius: 50%;
         object-fit: cover;
-        // margin-bottom: 1rem;
+        margin-bottom: 1rem;
+        object-position: center 25%;
         border: 3px solid #171717;
     }
 
