@@ -30,3 +30,4 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", :install_if => Gem.win_platform?
 gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine', tag: 'v1.2.7'
+gem 'bigdecimal'
