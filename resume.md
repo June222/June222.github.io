@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 <div class="header">
-    <img class="photo" src="https://randomuser.me/api/portraits/men/32.jpg" alt="강준우 프로필 사진" />
+    <img class="photo" src="https://raw.githubusercontent.com/June222/ApplyingCompany/refs/heads/main/%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%842-%EA%B0%95%EC%A4%80%EC%9A%B0.jpg?token=GHSAT0AAAAAADEMRDMOH2K2RFDJHFKNFP562C4WLJQ" alt="강준우 프로필 사진" />
 </div>
 ### <center>Cloud Native Engineer | 강준우</center>
 
