@@ -89,7 +89,7 @@ layout: page
 - 팀장, 은상 수상(52개 팀)
 - SpringBoot DB(AWS) JPA 서버 개발
 - Docker & AWS 기반 배포
-- 저작권 등록
+- 저작권 등록 완료
 <!-- - <a href="https://github.com/June222/capstone-2023-1-02" target="_blank">데이터 관리 App</a> 배포 및 저작권 등록 -->
 <!-- - <a href="https://private-user-images.githubusercontent.com/38900003/280456095-97e9af17-62f3-4761-83e8-ad175bda8376.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2Nzg2NjcsIm5iZiI6MTcwMTY3ODM2NywicGF0aCI6Ii8zODkwMDAwMy8yODA0NTYwOTUtOTdlOWFmMTctNjJmMy00NzYxLTgzZTgtYWQxNzViZGE4Mzc2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDA4MjYwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjNmFlYWI5OWJiYTY1MGUyY2RkODJjMDg1OGE3YzhhNzhhZTJkYjAyMGJkNjIwNzBiOTA3ZTMxMzlmY2U2MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bXzgDQnHfW5KlI_pIqtMKjZmYhfCmyzawqGcz3k6pcE" target="_blank">데이터 시각화</a>, 데이터 활용 방법 제시 -->
 
@@ -154,7 +154,7 @@ _2022.12.01 ~ 2022.12.21_ -->
 
 |         기간          |        프로그램명        | 프로그램 내용                                                                                                                                                                          |
 |:-------------------:|:-------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|24.11.14 ~ 25.06.19|구름 클라우드 네이티브 엔지니어링 개발자 교육 | - Git, CI/CD 등의 분산 버전 관리 및 협업 도구 활용<br>- 클라우드 컴퓨팅 아키텍처 및 보안 전문성<br>- 리눅스, 컨테이너, 서버리스 기술|
+|24.11.14 ~ 25.06.19|구름 클라우드 네이티브 엔지니어링 개발자 교육 | - Git, CI/CD 등의 분산 버전 관리 및 협업 도구 활용<br>- 클라우드 컴퓨팅 아키텍처 및 보안 전문성 강화<br>- 리눅스, 컨테이너, 서버리스 기술 활용|
 |    24.05.03 ~ 24.08.30    |     AID 동아리 운영진     | - Django 이용한 백엔드 서버 제작<br>- ERD 제작                                                                                                                                               |
 | 24.01.02 ~ 24.02.26 |      LG Aimers      | - 수학<br/>- 기계학습<br/>- 지도학습<br/>- 인과추론<br/>- B2B<br/>- 온라인 해커톤                                                                                                                    |
 | 23.09.03 ~ 23.12.19 |  PNU JAVA 실습 수업 조교  | - JAVA 실습 수업<br>- 채점 자동화 프로그램 작성                                                                                                                                                 |
