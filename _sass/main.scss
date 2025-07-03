@@ -1,138 +1,136 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css');
-
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css");
 
 html,
 body {
-    // font-family: 'Poppins', sans-serif;
-    scroll-behavior: smooth !important;
-    // transition: all 0.25s ease;
-    font-family: 'Noto Sans KR', sans-serif;
-    // padding: 2rem;
-    line-height: 1.6;
-    // max-width: 900px;
-    margin: 0 auto;
-    background-color: #fff;
-    color: #333;
+  // font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth !important;
+  // transition: all 0.25s ease;
+  font-family: "Noto Sans KR", sans-serif;
+  // padding: 2rem;
+  line-height: 1.6;
+  // max-width: 900px;
+  margin: 0 auto;
+  background-color: #fff;
+  color: #333;
 }
-
-
 
 /* width */
 ::-webkit-scrollbar {
-    width: 0.5vmax !important;
+  width: 0.5vmax !important;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: white !important;
+  background: white !important;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #363636 !important;
+  background: #363636 !important;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: black !important;
+  background: black !important;
 }
 
 ::placeholder {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #navbar {
-    .navbar-burger {
-        span:nth-child(2) {
-            left: calc(50%);
-            width: 8px;
-        }
+  .navbar-burger {
+    span:nth-child(2) {
+      left: calc(50%);
+      width: 8px;
     }
+  }
 }
 
 .is-active {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .columns {
-    .button {
-        margin: 0.5rem !important;
-    }
+  .button {
+    margin: 0.5rem !important;
+  }
 }
 
 hr {
-    margin: 1rem auto;
-    height: 1px;
+  margin: 1rem auto;
+  height: 1px;
 }
 
 .column {
-    margin: auto 0.5rem;
-    padding: 0.5rem;
+  margin: auto 0.5rem;
+  padding: 0.5rem;
 }
 
 .searchResult {
-    a {
-        .title {
-            text-decoration: underline;
-        }
+  a {
+    .title {
+      text-decoration: underline;
     }
+  }
 }
 
 .row {
-    display: flex;
-    padding: 3rem 0;
-    border-bottom: 1px solid #eee;
+  display: flex;
+  padding: 3rem 0;
+  border-bottom: 1px solid #eee;
 }
 
 .row-left {
-    -ms-flex-preferred-size: 18rem;
-    flex-basis: 18rem;
-    padding-right: 1rem;
-    -ms-flex-negative: 0;
-    flex-shrink: 0;
+  -ms-flex-preferred-size: 18rem;
+  flex-basis: 18rem;
+  padding-right: 1rem;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
 }
 
 .row-right {
-    -webkit-box-flex: 1;
-    -ms-flex-positive: 1;
-    flex-grow: 1;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
 }
 
 mark {
-    padding: 2px 4px;
-    font-size: 90%;
-    color: #fff;
-    background-color: #333;
-    border-radius: 3px;
-    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,0.25);
-    box-shadow: inset 0 -1px 0 rgba(0,0,0,0.25);
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #fff;
+  background-color: #333;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
 // 반응형 미디어 쿼리
 @media screen and (max-width: 300px) {
-    body {
-        padding: 1rem;
-        font-size: 0.95rem;
-    }
+  body {
+    padding: 1rem;
+    font-size: 1.1rem;
+  }
+  h1,
+  h2,
+  h3 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
 
-    h1, h2, h3 {
-      font-size: 1.2rem;
-      text-align: center;
-    }
-  
-    table {
+  table {
     //   display: block;
-      overflow-x: auto;
-      white-space: nowrap;
-    }
-  
-    .tech-stack img {
-      width: 100%;
-    }
-  
-    .center {
-      text-align: center;
-    }
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .tech-stack img {
+    width: 100%;
+  }
+
+  .center {
+    text-align: center;
+  }
 }
