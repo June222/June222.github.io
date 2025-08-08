@@ -176,11 +176,12 @@ _2022.12.01 ~ 2022.12.21_ -->
 
 ---
 
-|    MY     |                                                                              Link                                                                              |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Github   |           [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/june222)           |
-|   Email   |           [![0119299@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0119299@gmail.com)           |
-|   Blog    |       [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://june222.github.io/)        |
-| Instagram | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vwxy_h__s_/) |
+|    MY     |                                                                                                                                     Link                                                                                                                                      |
+| :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Github   |                                                                  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/june222)                                                                   |
+|   Email   |                                                                  [![0119299@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0119299@gmail.com)                                                                   |
+| Portfolio | [![alt text](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGtm810rNw/AiEXVv5LncSE5fH3hotVoQ/edit?utm_content=DAGtm810rNw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 
 <!-- [![0119299@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0119299@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vwxy_h__s_/) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) -->
+<!-- | Instagram |                                                        [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vwxy_h__s_/)                                                         | -->
+<!-- |   Blog    |                                                               [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://june222.github.io/)                                                               | -->
