@@ -2,7 +2,7 @@
 layout: post
 title: gem SSL Verification Error 트러블 슈팅
 description: 사내 웹필터로 발생한 SSL Verification
-post-image: 
+post-image: ../assets/images/sslVerificationError.png
 author: 강준우
 tags:
 - gem
