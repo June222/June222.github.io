@@ -9,6 +9,7 @@ tags:
 - SSL Verification
 - ERROR
 - Root Certificate
+- x509
 ---
 
 사내 웹필터 적용을 위해 Windows에 사설 CA를 추가하면서 jekyll 및 bundler가 gem으로 설치되지 않는 문제가 발생하였습니다. 
@@ -26,6 +27,8 @@ tags:
 ### 1. 문제 상황
 
 아래와 같이 `gem install` 명령어를 치는 경우에 발생한 error log입니다.
+
+`x509` error 인 경우 해당 문제입니다.
 
 ```bash
 gem install bundler jekyll 
